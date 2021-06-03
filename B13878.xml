@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before his majestie at his court of Thebalds, on Sunday, Sept. 15. 1622 In the ordinary course of attendance. By Ios. Hall D.D.</title>
+            <author>Hall, Joseph, 1574-1656.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13878</idno><idno type="EEBO-CITATION">99848261</idno>
+  <idno type="VID">176852</idno>
+  <idno type="EEBO-PROQUEST">2240909254</idno>
+  <idno type="STC">STC 12714.5</idno>
+  <idno type="STC">ESTC S113020</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848261e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 714:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before his majestie at his court of Thebalds, on Sunday, Sept. 15. 1622 In the ordinary course of attendance. By Ios. Hall D.D.</title>
+                  <author>Hall, Joseph, 1574-1656.</author>
+               </titleStmt>
+               <extent>[1], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Haviland for N. Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The deceit of appearance.</note>
+                  <note>Identified as STC 12714a on UMI microfilm.</note>
+                  <note>Imperfect; pages 43-44 mutilated affecting text.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176852:1"/>
+            <p>A SERMON preached before his MAIESTIE at his Court of <hi>Thebalds,</hi> on Sunday, <hi>Sept.</hi> 15. 1622.</p>
+            <p>In the ordinary course of attendance.</p>
+            <p>
+               <hi>By</hi> IOS. HALL <hi>D.D.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>J. Haviland</hi> for N. BVTTER. 1622.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176852:2"/>
+            <head>A SERMON Preached before his MA<g ref="char:EOLhyphen"/>IESTY, at his Court of THEBALDS, on Sunday the 15. of <hi>September</hi> 1622.</head>
+            <epigraph>
+               <bibl>
+                  <hi>IOHN 7.24.</hi>
+               </bibl>
+               <q>Iudge not according to the appearance, but iudge righteous iudgement.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S in the ciuill bo<g ref="char:EOLhyphen"/>dy, so in the na<g ref="char:EOLhyphen"/>turall; the head as it is the high<g ref="char:EOLhyphen"/>est, so the chiefe part: according to the place is the dignity: Of
+<pb n="2" facs="tcp:176852:3"/>the head, the highest Region is chiefest, seruing only for the vse of intellectuall powers; where<g ref="char:EOLhyphen"/>as the lower part of it is only imploied for bodily nutrition: Now, as the reasonable part of the Soule is <hi>Vertex animae,</hi> being contradistinguished to the sen<g ref="char:EOLhyphen"/>sitiue; So, if ye distinguish the reasonable into Iudgement and Deliberation, <hi>Naturale Iudicato<g ref="char:EOLhyphen"/>rium dicetur esse vertex,</hi> saith <hi>Aqui<g ref="char:EOLhyphen"/>nas;</hi> Iudgement is the top of our Soule, and therefore calls for the top of our care: If the high<g ref="char:EOLhyphen"/>est Wheele goe right, the inferi<g ref="char:EOLhyphen"/>our hardly erre. Heare then the golden rule of the Author, of the Iudge of our iudgement, <hi>Iudge not according to the ap<g ref="char:EOLhyphen"/>pearance,
+<pb n="3" facs="tcp:176852:3"/>but iudge righteous iudgement.</hi> The negatiue part is first, <hi>Iudge not;</hi> then, <hi>Iudge:</hi> Where the minde is free and cleere, it is good to begin with the positiue documents of right, which is the rule to it selfe and the wrong; but where the heart is forestalled with mis-opinion, ablatiue directions are first need<g ref="char:EOLhyphen"/>full to vnteach error, ere we can learne truth. Iudge not therefore according to the appearance: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is (as the Vulgar rightly) <hi>secundùm faciem,</hi> according to the face, because the face only appeares, the rest is hid: Euery thing, not man only, hath both a face and an heart; a face which is peruious to euery eie, an heart
+<pb n="4" facs="tcp:176852:4"/>to which none eye can pierce but the wise. This face, as of man, so of things, is a false rule of iudgement; <hi>Frons, oculi, &amp;c.</hi> The forehead, eyes, counte<g ref="char:EOLhyphen"/>nance tell many a lye. Iudge not therefore according to ap<g ref="char:EOLhyphen"/>pearance: it is no measuring by a crooked line: There is nothing more vncertaine than appea<g ref="char:EOLhyphen"/>rance; some things appeare that are not, and some things are that appeare not; and that (be<g ref="char:EOLhyphen"/>sides naturall occurrences) in morally both good and euill: Some things appeare good that are not, and therefore mis-lead the heart both to an vniust pro<g ref="char:EOLhyphen"/>secution, and to a false applause; some things appeare euill that
+<pb n="5" facs="tcp:176852:4"/>are not, and therefore mis-lead vs to an iniurious censure, and vndeserued abomination: A<g ref="char:EOLhyphen"/>gaine, some things are good that appeare not, and therefore lose both our allowance and pursuit; some things are euill that appeare not, and therefore insinuate themselues into our acquaintance and loue, to our cost: Many a Snake lies hid vn<g ref="char:EOLhyphen"/>der the Strawbery leaues, and stings vs ere we be aware. <hi>Vitia virtutes mentiuntur,</hi> saith <hi>Gregory,</hi> Vice too oft makes a maske of the skin of Vertue, and lookes louely: Vertue as often comes forth (like a Martyr in the In<g ref="char:EOLhyphen"/>quisition) with a San-benit vp<g ref="char:EOLhyphen"/>on her backe, and a cap painted
+<pb n="6" facs="tcp:176852:5"/>with Deuils vpon her head, to make her vgly to the beholders; <hi>Iudge not therefore according to the appearance.</hi>
+            </p>
+            <p>The appearance or face, is of things, as of men: We see it at once with one cast of the eye, yet there are angles, and hils and dales, which vpon more ear<g ref="char:EOLhyphen"/>nest view the eye sees cause to dwell in: so it is with this ap<g ref="char:EOLhyphen"/>pearance or face of things, which how euer it seemes wholly to appeare to vs at the first glance, yet vpon further search will descry much matter of our inquiry: For euery thing from the skin inclusiuely to the heart, is the face; euery thing besides true being, is appearance.
+<pb n="7" facs="tcp:176852:5"/>All the false <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that vse to be<g ref="char:EOLhyphen"/>guile the iudgement of man, hide themselues vnder this appea<g ref="char:EOLhyphen"/>rance: These reduce themselues to three heads; Presumptions, false Formes, Euents: Presump<g ref="char:EOLhyphen"/>tions must be distinguished; for wheras there are three degrees of them, first <hi>(levia Probabilia)</hi> light Probabilities, then faire Proba<g ref="char:EOLhyphen"/>bilities, and thirdly strong Pro<g ref="char:EOLhyphen"/>babilities, which are called, <hi>Indi<g ref="char:EOLhyphen"/>cia juris,</hi> the two first are allowed by very Inquisitors, but as suffi<g ref="char:EOLhyphen"/>cient to cause suspicion, to take information, to attache the sus<g ref="char:EOLhyphen"/>pected, not enough whereon to ground the Libell, or the tor<g ref="char:EOLhyphen"/>ture, much lesse a finall Iudge<g ref="char:EOLhyphen"/>ment: Thus <hi>Elie</hi> sees <hi>Annaes</hi> lips
+<pb n="8" facs="tcp:176852:6"/>go, therefore she is drunke: The Pharises see Christ sit with sin<g ref="char:EOLhyphen"/>ners, he is a friend to their sins.</p>
+            <p>False formes are presented ei<g ref="char:EOLhyphen"/>ther to the eye or to the eare. In the former, besides supernatu<g ref="char:EOLhyphen"/>rall delusions, there is a deceit of the sight, whether through the indisposition of the Organ, or the distance of the Obiect, or the mis-disposition of the me<g ref="char:EOLhyphen"/>dium: So as, if wee should iudge according to appearance, the Sunne should double it selfe by the first, through the crosnesse of the eye, it should diminish it selfe by the second, and seeme as big as a large Siue, or no large Cart wheele at the most; It should dance in the rising, and moue
+<pb n="9" facs="tcp:176852:6"/>irregularly by the third. To the eare are mis-reports, and false suggestions, whether concer<g ref="char:EOLhyphen"/>ning the person or the cause. In the former, the calumniating tongue of the Detractor is the Iugler that makes any mans ho<g ref="char:EOLhyphen"/>nesty or worth appeare such as his malice listeth: In the lat<g ref="char:EOLhyphen"/>ter, the smooth tongue of the subtile Rhetorician is the Im<g ref="char:EOLhyphen"/>postor, which makes causes appeare to the vnsetled iudge<g ref="char:EOLhyphen"/>ment, such as his wit or fauour pleaseth: Euents, which are oft-times as much against the intention, and aboue the re<g ref="char:EOLhyphen"/>medie of the Agent, as be<g ref="char:EOLhyphen"/>sides the nature of the Act: There is sometimes a good e<g ref="char:EOLhyphen"/>uent
+<pb n="10" facs="tcp:176852:7"/>of euill, as <hi>Iasons</hi> Aduer<g ref="char:EOLhyphen"/>sarie cured him in stabbing him; the Israelites thriue by oppression, the Field of the Church yeelds most when it is manured with bloud: There is sometimes an ill euent of good; <hi>Ahimelec</hi> giues <hi>Dauid</hi> the Shew-bread, and the Sword, hee and his Family dies for it: <hi>Sapientis est praestare culpam;</hi> It is enough for a wise man to weild the Act, the issue hee cannot; Wisdome makes demonstra<g ref="char:EOLhyphen"/>tiue Syllogismes, <hi>à priori,</hi> from the causes; folly Paralogismes, <hi>à posteriori,</hi> from the successe. <hi>Careat successibus opto quisquis ab eventu, &amp;c.</hi> was of old the word of the Heathen Poet. If there<g ref="char:EOLhyphen"/>fore
+<pb n="11" facs="tcp:176852:7"/>either vpon sleight proba<g ref="char:EOLhyphen"/>bilities, or false formes, or sub<g ref="char:EOLhyphen"/>sequent euents we passe our ver<g ref="char:EOLhyphen"/>dict, we doe what is here for<g ref="char:EOLhyphen"/>bidden, Iudge according to ap<g ref="char:EOLhyphen"/>pearance.</p>
+            <p>Had the charge beene only <hi>Iudge not,</hi> and gone no further, it had beene very vsefull, and no other than our Sauiour gaue in the Mount: we are all on our way; Euery man makes himselfe a Iustice Itinerant, and passeth sentence of all that comes before him, yea (beyond all commissi<g ref="char:EOLhyphen"/>on) of all aboue him; and that many times, not without grosse mis-construction, as in the case of our late directions: Our very Iudges are at our barre; Secrets
+<pb n="12" facs="tcp:176852:8"/>of Court, of Counsell, of State escape vs not, yea not those of the most reserued Cabinet of Heauen: <hi>Quis te constituit Iudi<g ref="char:EOLhyphen"/>cem?</hi> Who made thee a Iudge? as the Israelite (vniustly) to <hi>Moses:</hi> These are sawcy vsurpers of for<g ref="char:EOLhyphen"/>bidden Chaires; and therefore it is iust with God, that (accor<g ref="char:EOLhyphen"/>ding to the Psalmist) such Iud<g ref="char:EOLhyphen"/>ges should bee cast downe in stony places, yea, as it is in the Originall (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) that they should be left in the hands of the rocke <hi>(allidantur Petrae)</hi> that they should bee dasht a<g ref="char:EOLhyphen"/>gainst the rocks, that will bee sailing without Card or com<g ref="char:EOLhyphen"/>passe in the vast Ocean of Gods Counsels, or his anointeds.</p>
+            <pb n="13" facs="tcp:176852:8"/>
+            <p>But now here our Sauiour seales our Commission, sets vs vpon the Bench; allowes vs the act, but takes order for the man<g ref="char:EOLhyphen"/>ner, we may iudge, we may not iudge according to the appea<g ref="char:EOLhyphen"/>rance; we may be Iudges (whe<g ref="char:EOLhyphen"/>ther <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the one to con<g ref="char:EOLhyphen"/>demne, the other to absolue, we may not be (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Iud<g ref="char:EOLhyphen"/>ges of euil thoughts; and we shal bee euill thoughted Iudges, if we shall iudge according to the appearance. Not only Fortune and Loue, but euen Iustice also is wont to bee painted blind<g ref="char:EOLhyphen"/>fold; to import that it may not regard faces. God sayes to euery Iudge as he did to <hi>Samuel,</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Eliab, Looke not on his
+<pb n="14" facs="tcp:176852:9"/>countenance, nor the height of his stature:</hi> Is an outragious rape committed? Is bloud shed? looke not whether it be a Cour<g ref="char:EOLhyphen"/>tiers or a Pesants, whether by a Courtier or a Pesant; either of them cryes equally loud to Hea<g ref="char:EOLhyphen"/>uen: Iustice cannot be too Lyn<g ref="char:EOLhyphen"/>cean to the being of things, nor too blinde to the appearance.</p>
+            <p>The best things appeare not, the worst appeare most; God, the Angels, soules both glorifi<g ref="char:EOLhyphen"/>ed and encaged in our bosomes, grace, supernaturall truths, these are most-what the obiects of our faith, and faith is the eui<g ref="char:EOLhyphen"/>dence of things not seene; Like as in bodily obiects, the more pure and simple ought is (as aire
+<pb n="15" facs="tcp:176852:9"/>and etherall fire) the more it flyeth the sight; the more grosse and compacted (as water and earth) the more it fils the eye; <hi>Iudge not therefore according to ap<g ref="char:EOLhyphen"/>pearance.</hi>
+            </p>
+            <p>It is an vsefull and excellent rule for the auoiding of errour in our iudgement of all matters whether Naturall, Ciuill, or Di<g ref="char:EOLhyphen"/>uine.</p>
+            <p>Naturall; what is the appea<g ref="char:EOLhyphen"/>rance of a person, but the co<g ref="char:EOLhyphen"/>lour, shape, stature? The colour is oft-times bought or borrow<g ref="char:EOLhyphen"/>ed, the shape forced by Art, the stature raised (to contradict Christ) a cubit high; <hi>Iudge not therefore according to appearance.</hi> What are the collusions of Iug<g ref="char:EOLhyphen"/>lers
+<pb n="16" facs="tcp:176852:10"/>and Mountebanks, the wee<g ref="char:EOLhyphen"/>pings and motions of Images, the noyses of miraculous cures and dispossessions, but appearan<g ref="char:EOLhyphen"/>ces? <hi>Fit aliquando in Ecclesiâ maxima deceptio populi in miraculis fictis à sa<g ref="char:EOLhyphen"/>cerdotibus;</hi> There is much coze<g ref="char:EOLhyphen"/>nage of the poore people by cog<g ref="char:EOLhyphen"/>ged miracles, saith Cardinall <hi>Ly<g ref="char:EOLhyphen"/>ranus;</hi> these holy frauds could not gull men, if they did not iudge according to appearance. Should appearance be the rule, our har<g ref="char:EOLhyphen"/>uest had bin rich; there was not more shew of plenty in our fields, than now of scarcity in our streets. This dearth (to say truth) is not in the graine, but in the heart; If the hearts of men were not more blasted with coue<g ref="char:EOLhyphen"/>tousnesse
+<pb n="17" facs="tcp:176852:10"/>and cruell selfe-loue, than their graine with distemper of aire, this needed not; The Barnes and Granaries are full, the Markets empty; Authority knowes how to remedy this e<g ref="char:EOLhyphen"/>uill, how to preuent a dearth in abundance, that men may not affamish whom God hath fed; and that when God hath giuen vs the staffe of bread, it may not be either hid, or broken, short<g ref="char:EOLhyphen"/>ly, that our store may not be iudged by the appearance.</p>
+            <p>Ciuill; Wisemen and statesmen especially may not alwaies looke the same way they would goe; like skilfull Sea-men, they some<g ref="char:EOLhyphen"/>times lauere, and (as the winde may stand) fetch compasses of
+<pb n="18" facs="tcp:176852:11"/>lawfull policies to their wished point. That of <hi>Tiberius</hi> was feare<g ref="char:EOLhyphen"/>full; of whom <hi>Xiphiline,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) That he sayled euer against the winde of his words: But sometimes a good <hi>Constantius,</hi> or <hi>Anastasius,</hi> will wisely pretend what he intends not: As our Sa<g ref="char:EOLhyphen"/>uiour made as if hee went fur<g ref="char:EOLhyphen"/>ther, when he meant to turne in<g ref="char:EOLhyphen"/>to <hi>Emaus:</hi> The hearts of Kings are as deepe waters; we may not think to draine them in the hol<g ref="char:EOLhyphen"/>low of our hand: Secret things to them of whom God hath said, <hi>Dixi Dij estis;</hi> things reuea<g ref="char:EOLhyphen"/>led to vs and our children. Euen we meane ones would be loth to haue alwayes our hearts read in our faces; <hi>Iudge not therefore
+<pb n="19" facs="tcp:176852:11"/>according to the appearance.</hi>
+            </p>
+            <p>Diuine; In these our speech must dwell; If we should iudge according to the appearance, we should thinke basely of the Sa<g ref="char:EOLhyphen"/>uiour of the world; Who that had seene him sprawling and wringing in the Cratch, flitting to <hi>Aegypt,</hi> chopping of chips at <hi>Nazareth,</hi> famishing in the De<g ref="char:EOLhyphen"/>sert, transported by Satan, atten<g ref="char:EOLhyphen"/>ded by Fishermen, persecuted by his Kindred, betrayed by one Seruant, abiured by another, for<g ref="char:EOLhyphen"/>saken of all, apprehended, ar<g ref="char:EOLhyphen"/>raigned, condemned, buffeted, spat vpon, scourged to bloud, sceptred with the reede, crow<g ref="char:EOLhyphen"/>ned with thorne, nailed to the Crosse, hanging naked betwixt
+<pb n="20" facs="tcp:176852:12"/>two Theeues, scorned of the be<g ref="char:EOLhyphen"/>holders, sealed vp in a borrow<g ref="char:EOLhyphen"/>ed graue, could say other, than, He hath no forme nor beauty, when wee shall see him, there is nothing that wee should desire him? Who that should haue seene his skinne all dewed with pearles of bloudy sweat, his backe bleeding, his face blub<g ref="char:EOLhyphen"/>bered and besmeared, his fore<g ref="char:EOLhyphen"/>head harrowed, his hands and feet pierced, his side gushing out, his head bowed down in death, and should withall haue heard his dying lips say, <hi>My God, my God, why hast thou forsaken me?</hi> would not haue said, <hi>Hee is despised and reiected of men,</hi> yea (in appea<g ref="char:EOLhyphen"/>rance) of God himselfe. Yet euen
+<pb n="21" facs="tcp:176852:12"/>this while, to the cutting of the sinewes of those stiffe-necked Iewes, the Angels owned him for their Lord, the Sages adored him, the Star designed him, the Prophets foreshewed him, the Deuils confest him, his Miracles euinced him, the earth shooke, the Rocks rent, the Dead lookt out, the Sun lookt in, astonished at the suffrings of the God of na<g ref="char:EOLhyphen"/>ture; Euen whiles he was despised of men, he commanded the De<g ref="char:EOLhyphen"/>uils to their chaines: whiles base men shot out their tongues at him, Principalities and Powers bowed their knees to him; whiles he hanged despicably vpon the tree of shame, the powers of hell were dragged captiue after the
+<pb n="22" facs="tcp:176852:13"/>triumphant chariot of his crosse; the appearance was not so con<g ref="char:EOLhyphen"/>temptible, as the truth of his e<g ref="char:EOLhyphen"/>state glorious. <hi>Iudge not therefore according to the appearance.</hi>
+            </p>
+            <p>Should appearance be the rule, how scornefully would the car<g ref="char:EOLhyphen"/>nall eye ouer-looke the poore ordinances of GOD? What would it finde here but foolish<g ref="char:EOLhyphen"/>nesse of preaching, homelinesse of Sacraments, an inky Letter, a Priests lips, a sauorlesse message, a morsell of Bread, a mouth full of Wine, an handfull of Water, a slander-beaten Crosse, a cruci<g ref="char:EOLhyphen"/>fied Sauiour, a militant Church, a despised Profession. When yet this foolishnesse of preaching is the power of God to saluation;
+<pb n="23" facs="tcp:176852:13"/>these mute Letters the liuely Oracles of God, these vile Lips the Cabinets of Heauen to preserue knowledge; this vn<g ref="char:EOLunhyphen"/>plausible Message, <hi>Magnalia Dei;</hi> this Water, the Water of Life in the midst of the Para<g ref="char:EOLhyphen"/>dise of GOD: (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) this Bread the Manna of Angels, this Wine heauenly Nectar, this Church the Kings Daughter, all glorious within, this dying Sa<g ref="char:EOLhyphen"/>crifice the Lord of life, this Crosse the Banner of Victory, this Profession Heauen vpon earth. <hi>Iudge not therefore accor<g ref="char:EOLhyphen"/>ding to appearance.</hi>
+            </p>
+            <p>Should appearance be the rule, woe were Gods children, happy were his enemies. Who that
+<pb n="24" facs="tcp:176852:14"/>had seene <hi>Cain</hi> standing master<g ref="char:EOLhyphen"/>ly ouer the bleeding carkasse of <hi>Abel, Ioseph</hi> in his bonds, his Mi<g ref="char:EOLhyphen"/>stresse in her dresse, <hi>Moses</hi> in the Flags, <hi>Pharaoh</hi> in the Palace, <hi>Dauid</hi> sculking in the Wilder<g ref="char:EOLhyphen"/>nesse, <hi>Saul</hi> commanding in the Court, <hi>Elias</hi> fainting vnder his Iuniper tree, <hi>Iezebel</hi> painting in her closet, <hi>Michaiah</hi> in the prison, <hi>Zidkijah</hi> in the presence, <hi>Ieremy</hi> in the dungeon, <hi>Zedekiah</hi> in the throne, <hi>Daniel</hi> trembling a<g ref="char:EOLhyphen"/>mong the Lyons, the Me<g ref="char:EOLhyphen"/>dean Princes feasting in their Bowers, <hi>Iohns</hi> head bleeding in the Platter, <hi>Herods</hi> smiling at the Reuels, Christ at the Barre, <hi>Pilate</hi> on the Bench, the Disci<g ref="char:EOLhyphen"/>ples scourged, the Scribes and
+<pb n="25" facs="tcp:176852:14"/>Elders insulting, would not haue said; O happy <hi>Caine, Potiphars</hi> wife, <hi>Pharaoh, Saul, Iezebel, Zid<g ref="char:EOLhyphen"/>kijah, Zedekiah,</hi> Median Princes, <hi>Pilate, Herod, Elders,</hi> miserable <hi>Abel, Ioseph, Moses, Dauid, Eli<g ref="char:EOLhyphen"/>ah, Michaiah, Ieremy, Daniel, Iohn, Christ,</hi> the <hi>Disciples:</hi> Yet we know <hi>Caines</hi> victory was as wofull, as <hi>Abels</hi> martyrdome glorious; <hi>Io<g ref="char:EOLhyphen"/>sephs</hi> yrons were more precious, than the golden tires of his Mi<g ref="char:EOLhyphen"/>stresse; <hi>Moses</hi> Reedes were more sure than <hi>Pharaohs</hi> Cedars; <hi>Da<g ref="char:EOLhyphen"/>uids</hi> Caue in the Desart more safe than the Towers of <hi>Saul; Eliahs</hi> Rauen a more comfortable pur<g ref="char:EOLhyphen"/>ueyor than all the Officers of <hi>Ie<g ref="char:EOLhyphen"/>zebel: Michaiahs</hi> prison was the gard-chamber of Angels, when
+<pb n="26" facs="tcp:176852:15"/>
+               <hi>Ahabs</hi> presence was the counsell Chamber of euill spirits; <hi>Ieremies</hi> Dungeon had more true light of comfort than the shining state of <hi>Zedekiah; Daniel</hi> was better garded with the Lions, than <hi>Darius</hi> and the Median Princes with their Ianisaries; <hi>Iohns</hi> head was more rich with the Crowne of his martyrdome, than <hi>Herods</hi> with the Diadem of his Tetrar<g ref="char:EOLhyphen"/>chate; <hi>Christ</hi> at the Barre gaue life and being to <hi>Pilate</hi> on the Bench, gaue motion to those hands that strucke him, to that tongue that condemned him, and in the meane while, gaue sentence on his Iudge; The <hi>Disci<g ref="char:EOLhyphen"/>ples</hi> were better pleased with their stripes and wales than
+<pb n="27" facs="tcp:176852:15"/>the Iewish Elders with their proud Phylacteries. After this, who that had seene the primi<g ref="char:EOLhyphen"/>tiue Christians, some broyled on Gridirons, others boyled in Lead, some rosted, others frozen to death, some flead, others torne with horses, some crashed in peeces by the teeth of Lions, others cast downe from the rocks to the stakes, some smiling on the wheele, others in the flame, all wearying their tor<g ref="char:EOLhyphen"/>mentors and shaming their Ty<g ref="char:EOLhyphen"/>rants with their patience, would not haue said, <hi>Of all things I would not be a Christian?</hi> Yet, euen this while were these poore tor<g ref="char:EOLhyphen"/>turing-stocks higher (as <hi>Marcus Arethusius</hi> bragged) than their
+<pb n="28" facs="tcp:176852:16"/>persecutors; dying Victors, yea Victors of death; neuer so glo<g ref="char:EOLhyphen"/>rious as when they began not to be; in gasping crowned, in yeel<g ref="char:EOLhyphen"/>ding the ghost more than Con<g ref="char:EOLhyphen"/>querours; <hi>Iudge not therefore accor<g ref="char:EOLhyphen"/>ding to appearance.</hi>
+            </p>
+            <p>When thou lookst about, and seest on the one hand, a poore conscionable Christian droup<g ref="char:EOLhyphen"/>ing vnder the remorse for his sinne, austerely checking his wanton appetite, and curbing his rebellious desires, wearing out his dayes in a rough peni<g ref="char:EOLhyphen"/>tentiall seuerity, cooling his in<g ref="char:EOLhyphen"/>frequent pleasures with sighs, and sawcing them with teares; on the other hand ruffling Gal<g ref="char:EOLhyphen"/>lants made all of pleasure &amp; Io<g ref="char:EOLhyphen"/>uiall
+<pb n="29" facs="tcp:176852:16"/>delights, bathing themselues in a sea of all sensuall satieties, de<g ref="char:EOLhyphen"/>nying their pampered natureno<g ref="char:EOLhyphen"/>thing vnder heauen, not wine in bowles, not strange flesh, and beastly dalliance, not vnnaturall titillations, not violent filthines; that feast without feare, and drinke without measure, and sweare without feeling, and liue without God, their bodies are vigorous, their coffers full, their state prosperous, their hearts cheerefull: O how thou blessest such men: Loe these (thou saist) these are the dearlings of heauen and earth; <hi>Sic ô sic juvat vivere:</hi> Whiles those other sullen mo<g ref="char:EOLhyphen"/>pish creatures are the (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) off<g ref="char:EOLhyphen"/>scouring and recrements of the
+<pb n="30" facs="tcp:176852:17"/>world; Thou foole, giue me thy hand, let me lead thee with <hi>Da<g ref="char:EOLhyphen"/>uid</hi> into the sanctuary of God: Now what seest thou? The end, the end of these men is not peace. Surely ô God thou hast set them in slippery places, and castest them downe to desolation: how suddenly are they perished, and horribly consumed! Woe is me, they doe but dance a Galli<g ref="char:EOLhyphen"/>ard ouer the mouth of hell, that seemes now couered ouer with the greene sods of pleasure; The higher they leape, the more des<g ref="char:EOLhyphen"/>perate is their lighting: Oh wo<g ref="char:EOLhyphen"/>full, wofull condition of those godlesse men, yea those epicure<g ref="char:EOLhyphen"/>an Porkets, whose belly is their god, whose heauen is their plea<g ref="char:EOLhyphen"/>sure,
+<pb n="31" facs="tcp:176852:17"/>whose cursed iollity is but a feeding vp to an eternall slaugh<g ref="char:EOLhyphen"/>ter: the day is comming, where<g ref="char:EOLhyphen"/>in euery minute of their sinfull vnsatisfying ioyes shal be answe<g ref="char:EOLhyphen"/>red with a thousand thousand millions of yeeres frying in that vnquenchable fire; And when those damned Ghosts shal forth of their incessant flames see the glorious remuneration of the pe<g ref="char:EOLhyphen"/>nitent and pensiue soules which they haue despised, they shal then guash and yell out that late re<g ref="char:EOLhyphen"/>cantation; We fooles thought their life madnes, and their end without honour; now they are counted among the children of God, and their portion is among the Saints, ours amongst Deuils:
+<pb n="32" facs="tcp:176852:18"/>
+               <hi>Iudge not therefore according to ap<g ref="char:EOLhyphen"/>pearance.</hi>
+            </p>
+            <p>Should we iudge according to appearance, all would be Gold that glistereth, all drosse that gli<g ref="char:EOLhyphen"/>stereth not: Hypocrites haue ne<g ref="char:EOLhyphen"/>uer shewed more faire, than some Saints foule. <hi>Saul</hi> weepes, <hi>Ahab</hi> walkes softly: <hi>Tobias</hi> and <hi>Sanbal<g ref="char:EOLhyphen"/>lat</hi> will be building Gods walls; <hi>Herod</hi> heares <hi>Iohn</hi> gladly; <hi>Balaam</hi> prophesies Christ, <hi>Iudas</hi> preaches him, Satan confesses him; When euen an <hi>Abraham</hi> dissembles, a <hi>Dauid</hi> clokes adultery with mur<g ref="char:EOLhyphen"/>der, a <hi>Salomon</hi> giues (at least) a toleration to idolatry; a <hi>Peter</hi> forsweares his Master, briefely, the prime disciple is a Satan; Sa<g ref="char:EOLhyphen"/>tan an Angell of light. For you:
+<pb n="33" facs="tcp:176852:18"/>How gladly are we deceiued in thinking you all such as you seeme; None but the Court of Heauen hath a fairer face. Pray<g ref="char:EOLhyphen"/>ers, sermons, sacraments, geni<g ref="char:EOLhyphen"/>culation, silence, attention, reue<g ref="char:EOLhyphen"/>rence, applause, knees, eyes, eares, mouths full of God; Oh that ye were thus alwaies! Oh that this were your worst side! But if we follow you from the Church, &amp; finde cursing and bitternesse vn<g ref="char:EOLhyphen"/>der your tongues; licentious dis<g ref="char:EOLhyphen"/>order in your liues, bribery and oppressionin your hands; If God lookeinto the windows of your hearts, and finde there be <hi>(intus rapinae</hi>) we cannot iudge you by the appearance; or, if we could, What comfort were it to you to
+<pb n="34" facs="tcp:176852:19"/>haue deceiued our charity with the appearance of Saints, when the righteous Iudge shall giue you your portion with Hypo<g ref="char:EOLhyphen"/>crites; What euer we doe, he will be sure not to iudge according to the appearance.</p>
+            <p>If appearance should bee the rule, false religion should be true, true false. <hi>Quaedam falsa probabi<g ref="char:EOLhyphen"/>liora quibusdam veris,</hi> is the old word; Some falshoods are more likely than some truths: Natiue beauty scornes Art: Truth is as a matrone; Error a curtizan: The matrone cares only to concile loue by a graue &amp; graceful mo<g ref="char:EOLhyphen"/>desty; the curtezan with philtres and farding We haue no hierar<g ref="char:EOLhyphen"/>chy mounted aboue Kings, no
+<pb n="35" facs="tcp:176852:19"/>pompous ostentation of magni<g ref="char:EOLhyphen"/>ficence, no garish processions, no gaudy altars, no fine images clad with Taffataes in summer, with veluets in winter, no flourishes of vniuersality, no rumors of mira<g ref="char:EOLhyphen"/>cles, no sumptuous canonizati<g ref="char:EOLhyphen"/>ons, we haue nothing but (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the sincerity of Scriptures, simplicity of sacraments, decen<g ref="char:EOLhyphen"/>cy of rare ceremonies, Christ cru<g ref="char:EOLhyphen"/>cified. We are gone if yee goe by appearance: Gone? alas, who can but blush &amp; weepe, and bleed to see that Christian soules should (after such beames of know<g ref="char:EOLhyphen"/>ledge) suffer themselues to be thus palpably cozened with the gilded slips of error, that after so many yeares pious gouern<g ref="char:EOLhyphen"/>ment
+<pb n="36" facs="tcp:176852:20"/>of such an incomparable succession of religious Princes, authority should haue cause to complaine of our defection?</p>
+            <p>Deare Christians (I must bee sharpe) are we children or fooles, that we should bee better plea<g ref="char:EOLhyphen"/>sed with the glittering tinsell of a painted baby from a Pedlers shop, than with the secretly rich and inualuable Iewell of diuine Truth? Haue wee thus learned Christ? Is this the fruit of so cleere a Gospell? of so blessed scepters? <hi>For Gods sake be wise and honest, and yee cannot be Apostates.</hi>
+            </p>
+            <p>Shortly, for it were easie to be endlesse: If appearance might be the rule, good should be euill, e<g ref="char:EOLhyphen"/>uill good; there is no vertue that
+<pb n="37" facs="tcp:176852:20"/>cannot be counterfetted, no vice that cannot be blanched; we should haue no such friend as our enemy, a flatterer; no such e<g ref="char:EOLhyphen"/>nemy as our friend that reproues vs. It were a wonder if ye great ones should not haue some such burs hanging vpon your sleeues; As soone shall corne grow with<g ref="char:EOLhyphen"/>out chaffe, as greatnes shal be free from adulation: These seruile spirits shal sooth vp all your pur<g ref="char:EOLhyphen"/>poses, &amp; magnifie all your acti<g ref="char:EOLhyphen"/>ons, and applaud your words, &amp; adore your persons: Sin what yee will, they will not check you; Proiect what you will, they wil not thwart you; say what ye will, they wil not faile to second you; bee what yee will, they
+<pb n="38" facs="tcp:176852:21"/>will not faile to admire you; Oh how these men are all for you, all yours, all you; They loue you as the Rauens doe your eyes. How deare was <hi>Sisera</hi> to <hi>Iael,</hi> when she smoothed him vp, &amp; gaue him milke in a lordly dish; <hi>Samson</hi> to <hi>Dalilah,</hi> when shee lulled him in her lap; <hi>Christ</hi> to <hi>Iudas,</hi> when he kissed him; See how hee loued him, would some foole haue said, that had iudged by appearance.</p>
+            <p>In the meane time, an honest plaine dealing friend is like those sauces which a man praises with teares in his eyes: like a ches-nut, which pricks the fingers, but pleases our taste; or like some wholsome medicinall potion, that distastes and purges vs (per<g ref="char:EOLhyphen"/>haps
+<pb n="39" facs="tcp:176852:21"/>makes vs sicke) that it may heale vs. Oh let the righteous smite mee, for that is a benefit, let him reproue me, and it shall be a precious oyle that shall not breake my head; Breake it? no, it shall heale it, when it is mortally wounded by my owne sinne, by others assentation: Oh how hap<g ref="char:EOLhyphen"/>py were it, if we could loue them that loue our soules, and hate them that loue our sinnes. They are these rough hands that must bring vs sauory dishes, and car<g ref="char:EOLhyphen"/>ry away a blessing; truth is for them now, thankes shall be for them hereafter, but in the meane time they may not bee iudged by the appearance.</p>
+            <p>Lastly, if we shall iudge friend<g ref="char:EOLhyphen"/>ship
+<pb n="40" facs="tcp:176852:22"/>by complement, salubrity by sweetnesse, seruice by the eye, fidelity by othes, valor by brags, a Saint by his face, a deuill by his feet, we shall be sure to be decei<g ref="char:EOLhyphen"/>ued: <hi>Iudge not therefore according to appearance.</hi>
+            </p>
+            <p>But (that yee mistake not) though we may not iudge only by the appearance, yet appea<g ref="char:EOLhyphen"/>rance may not bee neglected in our iudgement. Some things ac<g ref="char:EOLhyphen"/>cording to the Philosopher (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) seeme and are, are as they seeme: Semblances are not al<g ref="char:EOLhyphen"/>waies seuered from truth; Our senses are safe guides to our vn<g ref="char:EOLhyphen"/>derstandings. We iustly laugh at that Scepticke in <hi>Laertius,</hi> who because his seruant robbed his
+<pb n="41" facs="tcp:176852:22"/>Cup-bord, doubted whether he left his victuals there: What doe we with eyes if we may not be<g ref="char:EOLhyphen"/>leeue their intelligence? That world is past, wherein the glosse <hi>Clericus amplectens foeminam prae<g ref="char:EOLhyphen"/>sumitur benedicendi causâ fecisse;</hi> The wanton imbracements of another mans wife must passe with a Clarke for a ghostly be<g ref="char:EOLhyphen"/>nediction; Men are now more wise, lesse charitable: Words and probable shewes are appearan<g ref="char:EOLhyphen"/>ces, actions are not; and yet e<g ref="char:EOLhyphen"/>uen our words also shall iudge vs; If they be filthy, if blasphe<g ref="char:EOLhyphen"/>mous, if but idle, wee shall ac<g ref="char:EOLhyphen"/>count for them, wee shall bee iudged by them: <hi>Ex ore tuo;</hi> A foule tongue shewes euer a rot<g ref="char:EOLhyphen"/>ten
+<pb n="42" facs="tcp:176852:23"/>heart; <hi>By their fruits yee shall know them,</hi> is our Sauiours rule; I may safely say, No body de<g ref="char:EOLhyphen"/>sires to borrow colours of euill: If you doe ill, thinke not that we will make dainty to thinke you so; When the God of loue can say by the Disciple of loue, <hi>Qui facit peccatum ex diabolo est;</hi> He that committeth sinne is of the deuill: Euen the righteous Iudge of the world iudgeth <hi>(secundum opera)</hi> according to our works; we cannot erre whiles we tread in his steps. If we doe euill, sinne lyes at the doore; but it is on the streete side; Euery Passenger sees it, censures it; How much more he that sees in secret? Tri<g ref="char:EOLhyphen"/>bulation and anguish vpon e<g ref="char:EOLhyphen"/>uery
+<pb n="43" facs="tcp:176852:23"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le that doth euill: Euery <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> here is no exemption by <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itnesse, no buying off with <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ibes, no bleering of the eyes with pretences, no shrouding our selues in the night of secre<g ref="char:EOLhyphen"/>cy; but, if it be a soule that doth euill, Tribulation and anguish is for it; Contrarily, If wee doe well, shall we not be accepted? If we bee charitable in our almes, iust in our awards, faithfull in our performances, sober in our carriages, deuout in our religi<g ref="char:EOLhyphen"/>ous seruices, conscionable in our actions; <hi>Glory, and honour, and peace to euery man that wor<g ref="char:EOLhyphen"/>keth good;</hi> wee shall haue peace with our selues, honour with men, glory with God and his
+<pb n="44" facs="tcp:176852:24"/>Angels: <hi>Yea that peace of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> passeth all vnderstanding;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nour as haue all his Sai<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> incomprehensible glory <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God of peace, the God of Sa<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and Angels; to the participa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whereof, that good God th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath ordained vs, as mercifully bring vs for the sake of his deare Sonne Iesus Christ the iust: To whom with thee O Father, and thy good Spirit, one infinite God, our God, be giuen all praise, honour and glo<g ref="char:EOLhyphen"/>ry now and for euer. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
